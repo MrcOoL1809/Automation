@@ -1,1 +1,4 @@
-helo
+git add .
+git commit -m "comment"
+git branch -M master
+git push origin master
